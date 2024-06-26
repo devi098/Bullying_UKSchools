@@ -1,4 +1,4 @@
-## Project Topic: How does bullying impact the overall development of children in schools in the UK?
+## Project Topic: Impact of bullying on the overall development of children in schools in the UK
 
 ## Project Category: Data Science
 
